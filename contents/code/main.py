@@ -53,7 +53,6 @@ class HackerWebSnippet(plasmascript.Applet):
             self.url = 'http://' + self.url
         else:
             pass
-        print QVariant(QVariant(DEFAULT_URL)).toString()
 
         self.configOK()
         self.update()
