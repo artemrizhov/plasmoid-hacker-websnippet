@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Hacker Web Snippet
 Name[en]=Hacker Web Snippet
-Comment=Hacker Web Snippet plasmoid. Allows to embed custom JavaScript code into the loaded page.
+Comment=Web Snippet plasmoid for Hackers with ability to embed own JavaScript code
 Type=Service
 ServiceTypes=Plasma/Applet
 Icon=applications-internet
@@ -15,7 +15,7 @@ X-KDE-PluginInfo-Author=Artem Rizhov
 X-KDE-PluginInfo-Email=artem.rizhov@gmail.com
 X-KDE-PluginInfo-Name=hacker-websnippet
 X-KDE-PluginInfo-Version=0.1
-X-KDE-PluginInfo-Website=http://www.kde-look.org/
+X-KDE-PluginInfo-Website=https://github.com/artemrizhov/plasmoid-hacker-websnippet
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=PYQT
 X-KDE-PluginInfo-License=GPLv3
