@@ -18,5 +18,5 @@ X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=http://www.kde-look.org/
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=PYQT
-X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
