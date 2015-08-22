@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Hacker Web Snippet
 Name[en]=Hacker Web Snippet
-Comment=Hacker Web Snippet plasmoid, based on Web Snippet Plus. Allows embedding custom JavaScript code into the loaded page.
+Comment=Hacker Web Snippet plasmoid. Allows to embed custom JavaScript code into the loaded page.
 Type=Service
 ServiceTypes=Plasma/Applet
 Icon=applications-internet
