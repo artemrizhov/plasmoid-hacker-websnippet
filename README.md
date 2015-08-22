@@ -13,3 +13,9 @@ Merge requests are welcome.
 **Qt4** documentation - http://doc.qt.io/qt-4.8/index.html
 
 Also you may want to install **qtcreator** to modify the configuration window.
+
+## Running and testing
+
+Use this command to run the widget on a dedicated small desktop:
+
+    plasmoidviewer -c desktop --nosaveconfig hacker-websnippet
