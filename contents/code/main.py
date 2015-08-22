@@ -12,7 +12,8 @@ from PyKDE4.kdecore import *
 from PyKDE4.kdeui import *
 
 
-DEFAULT_URL = 'about:blank'
+DEFAULT_URL = ('https://github.com/artemrizhov/plasmoid-hacker-websnippet'
+               '#hacker-websnippet-plasmoid')
 
 
 class HackerWebSnippet(plasmascript.Applet):
