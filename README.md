@@ -1,4 +1,4 @@
-# Hacker Websnippet Plasmoid
+# Hacker Web Snippet Plasmoid
 Web Snippet plasmoid for hackers with ability to embed own JavaScript code.
 
 Be hacker, [fork](https://github.com/artemrizhov/plasmoid-hacker-websnippet) and patch!
